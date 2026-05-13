@@ -1,0 +1,14 @@
+{
+  "scena": {
+    "latest": "v1.19.0",
+    "download_url": "https://github.com/ALO-Production/alo-releases/releases/latest",
+    "release_notes": "https://github.com/ALO-Production/alo-releases/releases/latest",
+    "min_supported": "v1.0.0"
+  },
+  "foley": {
+    "latest": "v3.20.0",
+    "download_url": "https://github.com/ALO-Production/alo-releases/releases/latest",
+    "release_notes": "https://github.com/ALO-Production/alo-releases/releases/latest",
+    "min_supported": "v3.0.0"
+  }
+}
