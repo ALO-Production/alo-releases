@@ -6,9 +6,9 @@
     "min_supported": "v1.0.0"
   },
   "foley": {
-    "latest": "v3.20.0",
-    "download_url": "https://github.com/ALO-Production/alo-releases/releases/latest",
-    "release_notes": "https://github.com/ALO-Production/alo-releases/releases/latest",
+    "latest": "v3.26.2",
+    "download_url": "https://github.com/ALO-Production/alo-releases/releases/download/foley-v3.26.2/Foley.pkg",
+    "release_notes": "https://github.com/ALO-Production/alo-releases/releases/tag/foley-v3.26.2",
     "min_supported": "v3.0.0"
   }
 }
