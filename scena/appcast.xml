@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Scena</title>
+        <item>
+            <title>2.33.0</title>
+            <pubDate>Sun, 31 May 2026 23:42:05 +0800</pubDate>
+            <sparkle:version>2.33.0</sparkle:version>
+            <sparkle:shortVersionString>2.33.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/ALO-Production/alo-releases/releases/download/scena-v2.33.0/Scena.zip" length="79145162" type="application/octet-stream" sparkle:edSignature="ZBQbNeBLe6Vie5eJHg+iq9SpOa1NpM8TVS6hqffTXgosqLmLTP20lQ8dhXPPzL3m74lgH22KmK5CboePh8TNAA=="/>
+        </item>
+    </channel>
+</rss>
