@@ -1,8 +1,8 @@
 {
   "scena": {
-    "latest": "v2.35.1",
-    "download_url": "https://github.com/ALO-Production/alo-releases/releases/download/scena-v2.35.1/Scena.dmg",
-    "release_notes": "https://github.com/ALO-Production/alo-releases/releases/tag/scena-v2.35.1",
+    "latest": "v2.35.2",
+    "download_url": "https://github.com/ALO-Production/alo-releases/releases/download/scena-v2.35.2/Scena.dmg",
+    "release_notes": "https://github.com/ALO-Production/alo-releases/releases/tag/scena-v2.35.2",
     "min_supported": "v1.0.0"
   },
   "foley": {
