@@ -3,6 +3,15 @@
     <channel>
         <title>Scena</title>
         <item>
+            <title>2.35.4</title>
+            <pubDate>Tue, 07 Jul 2026 17:38:04 +0800</pubDate>
+            <sparkle:version>2.35.4</sparkle:version>
+            <sparkle:shortVersionString>2.35.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/ALO-Production/alo-releases/releases/download/scena-v2.35.4/Scena-update.zip" length="62822910" type="application/octet-stream" sparkle:edSignature="o/a1NZPd0ZI0aHA+fcl9fHjt7dgSF/4qDme9V8Cg0jnOig7CPt4Kcaj84cLnjHE1NqOiCjO4ZWfi7U1gS0ChAQ=="/>
+        </item>
+        <item>
             <title>2.35.3</title>
             <pubDate>Tue, 07 Jul 2026 17:11:54 +0800</pubDate>
             <sparkle:version>2.35.3</sparkle:version>
