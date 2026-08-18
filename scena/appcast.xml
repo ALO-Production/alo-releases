@@ -3,31 +3,13 @@
     <channel>
         <title>Scena</title>
         <item>
-            <title>2.35.4</title>
-            <pubDate>Tue, 07 Jul 2026 17:38:04 +0800</pubDate>
-            <sparkle:version>2.35.4</sparkle:version>
-            <sparkle:shortVersionString>2.35.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <title>1.0.0</title>
+            <pubDate>Tue, 18 Aug 2026 15:35:05 +0800</pubDate>
+            <sparkle:version>1000.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ALO-Production/alo-releases/releases/download/scena-v2.35.4/Scena-update.zip" length="62822910" type="application/octet-stream" sparkle:edSignature="o/a1NZPd0ZI0aHA+fcl9fHjt7dgSF/4qDme9V8Cg0jnOig7CPt4Kcaj84cLnjHE1NqOiCjO4ZWfi7U1gS0ChAQ=="/>
-        </item>
-        <item>
-            <title>2.35.3</title>
-            <pubDate>Tue, 07 Jul 2026 17:11:54 +0800</pubDate>
-            <sparkle:version>2.35.3</sparkle:version>
-            <sparkle:shortVersionString>2.35.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ALO-Production/alo-releases/releases/download/scena-v2.35.3/Scena-update.zip" length="62817273" type="application/octet-stream" sparkle:edSignature="qxwUwO/1ZQhAHM2uEfw1sCiKw8PvHvu8Zlv52P+WJO3mLuijRivH5VnykJEEwjvEsGzuxVSp6KR2PDY5uSu+Aw=="/>
-        </item>
-        <item>
-            <title>2.35.2</title>
-            <pubDate>Tue, 30 Jun 2026 22:45:32 +0800</pubDate>
-            <sparkle:version>2.35.2</sparkle:version>
-            <sparkle:shortVersionString>2.35.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ALO-Production/alo-releases/releases/download/scena-v2.35.2/Scena-update.zip" length="61052484" type="application/octet-stream" sparkle:edSignature="gVXi1jeoTTmDmQx3rk+CotAJ2QcZyDEgWm+NP5vtLRS+8lAEoVc2po08NkDkvVbRU+rzPex9wTSeWDqnLKKODQ=="/>
+            <enclosure url="https://github.com/ALO-Production/alo-releases/releases/download/scena-v1.0.0/Scena-update.zip" length="84270085" type="application/octet-stream" sparkle:edSignature="OMMY1edk3OOrwG0iqQIKfcRMtM/EV2LlEeWx8eX6Ce123asCTPosKeBhsrUb8VFW5PKyZsrQImuKvmGhAq0YAw=="/>
         </item>
     </channel>
 </rss>
