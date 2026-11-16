@@ -3,13 +3,13 @@
     <channel>
         <title>Scena</title>
         <item>
-            <title>1.2.2</title>
-            <pubDate>Sun, 15 Nov 2026 04:12:41 +0800</pubDate>
-            <sparkle:version>1000.2.2</sparkle:version>
-            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <title>1.2.3</title>
+            <pubDate>Mon, 16 Nov 2026 05:04:48 +0800</pubDate>
+            <sparkle:version>1000.2.3</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ALO-Production/alo-releases/releases/download/scena-v1.2.2/Scena-update.zip" length="194128385" type="application/octet-stream" sparkle:edSignature="TFeG/hroQMLecoB9OI2T+hY6TEAmAChWICm+HkrUNvZcM6VspWpC5/i2XslmHRehkWQliAkya7t67CcN+/d2Aw=="/>
+            <enclosure url="https://github.com/ALO-Production/alo-releases/releases/download/scena-v1.2.3/Scena-update.zip" length="196179808" type="application/octet-stream" sparkle:edSignature="/8dZecNU3DC3LE7wxHc7ZXyPOWsEZBzZChRMcCH5mRrP3b53ZVjB179XQtxh5TWnHriaOZlf+Kx9De6nyOFSCQ=="/>
         </item>
     </channel>
 </rss>
